@@ -1,9 +1,9 @@
 data_structures_and_algorithms_using_javascript
 ===============================================
 
-This is the example code than accompanies Data Structures and Algorithms with JavaScript by Michael McMillan (9781449364939). 
+This is the example code that accompanies Data Structures and Algorithms with JavaScript by Michael McMillan (9781449364939). 
 
-Click the Download Zip button to the right to download example code.
+Click the Download Zip button to the right to download the example code.
 
 Visit the catalog page [here](http://shop.oreilly.com/product/0636920029557.do).
 
